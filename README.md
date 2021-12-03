@@ -28,7 +28,7 @@ Aplicação em Python que faz análise de um conjunto de dados sobre empregos. O
 git clone https://github.com/Marcuscps19/python-job-insights.git
 
 # Entre no diretório
-cd job-insights
+cd python-job-insights
 
 # Crie o ambiente virtual para o projeto
 python3 -m venv .venv && source .venv/bin/activate
